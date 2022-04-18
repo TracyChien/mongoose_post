@@ -1,0 +1,19 @@
+{
+  "name": "mongoose_posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "tracy.c",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mongoose": "^6.3.0"
+  }
+}
